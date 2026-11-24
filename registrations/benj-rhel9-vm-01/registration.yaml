@@ -1,0 +1,3 @@
+vmName: benj-rhel9-vm-01
+repoURL: 'https://github.com/benjphipps/rhdh-demo-vm-1.git'
+requestedBy: 'user:default/benjphipps'
